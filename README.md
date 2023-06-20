@@ -2,7 +2,7 @@
 
 CS student \
 Hobbist graphical designer \
-C hater \
+C hater
 
 ## Projects
 
