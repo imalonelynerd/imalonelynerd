@@ -1,8 +1,8 @@
 # Nerd
 
-CS student
-Hobbist graphical designer
-C hater
+CS student \
+Hobbist graphical designer \
+C hater \
 
 ## Projects
 
