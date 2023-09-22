@@ -12,10 +12,10 @@ desc = "C hater"
 
 [colors]
 bg-img = "[null]"
-bg1 = #000000
-bg2 = #000080
-bg3 = #0000FF
-text = #FFFFFFF
+bg1 = "#000000"
+bg2 = "#000080"
+bg3 = "#0000FF"
+text = "#FFFFFFF"
 
 [links]
 urls = ["https://imalonelynerd.fr","https://blahaj.land"]
