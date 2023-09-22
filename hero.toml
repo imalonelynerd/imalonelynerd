@@ -3,7 +3,7 @@ title = "Nerd"
 name1 = "Nerd"
 name2 = "lonelynerd"
 catchphrase = "Welcome back..."
-img = "[null]"
+img = "https://avatars.githubusercontent.com/u/42437280?v=4"
 
 [personal]
 age = 19
