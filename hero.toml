@@ -1,3 +1,21 @@
 [title]
-title1 = "Nerd"
-title2 = "lonelynerd"
+title = "Nerd"
+name1 = "Nerd"
+name2 = "lonelynerd"
+catchphrase = "Welcome back..."
+img = "[null]"
+
+[personal]
+age = 19
+pronouns = ["She/Them", "They/Them"]
+desc = "C hater"
+
+[colors]
+bg-img = "[null]"
+bg1 = #000000
+bg2 = #000080
+bg3 = #0000FF
+text = #FFFFFFF
+
+[links]
+urls = ["https://imalonelynerd.fr","https://blahaj.land"]
