@@ -18,4 +18,13 @@ bg3 = "#0000FF"
 text = "#FFFFFFF"
 
 [links]
-urls = ["https://imalonelynerd.fr","https://blahaj.land"]
+urls = [
+  {
+    title = "Website",
+    url = "https://imalonelynerd.fr"
+  },
+  {
+    title = "blahaj.land",
+    url = "https://blahaj.land"
+  }
+]
