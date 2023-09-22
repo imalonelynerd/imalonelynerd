@@ -17,5 +17,10 @@ bg2 = "#000080"
 bg3 = "#0000FF"
 text = "#FFFFFFF"
 
-[links]
-urls = [{title = "Website",url = "https://imalonelynerd.fr"},{title = "blahaj.land",url = "https://blahaj.land"}]
+[[urls]]
+title = "Website"
+url = "https://imalonelynerd.fr"
+
+[[urls]]
+title = "blahaj.land"
+url = "https://blahaj.land"
