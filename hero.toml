@@ -11,7 +11,7 @@ pronouns = ["She/Them", "They/Them"]
 desc = "C hater"
 
 [colors]
-bgimg = "[null]"
+bgimg = "https://imalonelynerd.fr/landing/images/bg.png"
 bg1 = "#000000"
 bg2 = "#000080"
 bg3 = "#0000FF"
