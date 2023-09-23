@@ -12,9 +12,10 @@ desc = "C hater"
 
 [colors]
 bgimg = "https://imalonelynerd.fr/landing/images/bg.png"
-bg1 = "#000000"
-bg2 = "#000080"
-bg3 = "#0000FF"
+background = "#000000"
+widget = "#000080"
+hover = "#0000FF"
+title = "#00FF00"
 text = "#FFFFFF"
 
 [[urls]]
