@@ -12,11 +12,11 @@ desc = "CS student <br/>Hobbist graphical designer<br/>C hater<br/><br/>Special 
 
 [colors]
 bgimg = "https://imalonelynerd.fr/landing/images/bg.png"
-background = "#000000"
-widget = "#000080"
-link = "#008000"
-hover = "#0000FF"
-title = "#00FF00"
+background = "#161321"
+widget = "#161321"
+link = "#27233f"
+hover = "#E7A382"
+title = "#FF5263"
 text = "#FFFFFF"
 
 [[urls]]
