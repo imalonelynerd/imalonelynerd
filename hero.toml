@@ -8,7 +8,7 @@ img = "https://avatars.githubusercontent.com/u/42437280?v=4"
 [personal]
 age = 19
 pronouns = ["She/Them", "They/Them"]
-desc = "C hater"
+desc = "CS student <br/>Hobbist graphical designer<br/>C hater<br/><br/>Special ability : putting too much effort into stupid things<br/>Working on Talisman and Frisk"
 
 [colors]
 bgimg = "https://imalonelynerd.fr/landing/images/bg.png"
@@ -22,6 +22,10 @@ text = "#FFFFFF"
 [[urls]]
 title = "Website"
 url = "https://imalonelynerd.fr"
+
+[[urls]]
+title = "GitHub"
+url = "https://github.com/lonelynerd"
 
 [[urls]]
 title = "blahaj.land"
