@@ -1,32 +1,28 @@
 [title]
 title = "Nerd"
 name1 = "Nerd"
-name2 = "lonelynerd"
+name2 = "imalonelynerd"
 catchphrase = "Welcome back..."
 img = "https://avatars.githubusercontent.com/u/42437280?v=4"
 
 [personal]
 age = 19
-pronouns = ["She/Them", "They/Them"]
-desc = "CS student <br/>Hobbist graphical designer<br/>C hater<br/><br/>Special ability : putting too much effort into stupid things<br/>Working on Talisman and Frisk"
+pronouns = [ "She/Them", "They/Them" ]
+desc = "<br /><b>Special ability : putting too much effort into stupid things</b><br /><br />\n<b>CS</b> student<br />\nHobbist <b>graphical designer</b><br />\nC hater<br /><br />\n<h3>My projects :</h3>\n- <b>Talisman</b> ( webapp ), a stupid simple, yet elegant Yu-Gi-Oh! companion<br />\n- <b>Frisk</b>, an online gallery, made to be a self-hostable DeviantArt alternative<br />\n- <b>Blahaj ecosystem</b>, a serie of websites made for <b>blahaj.land</b><br />\n- <b>Oxygen²</b>, Oxygen reincarnated<br />"
 
 [colors]
-bgimg = "https://imalonelynerd.fr/landing/images/bg.png"
+bgimg = "https://imalonelynerd.fr/landing/images/dawn.jpg"
 background = "#161321"
 widget = "#161321"
 link = "#27233f"
-hover = "#E7A382"
+hover = "#BA2C3A"
 title = "#FF5263"
 text = "#FFFFFF"
 
 [[urls]]
-title = "Website"
+title = "My website"
 url = "https://imalonelynerd.fr"
 
 [[urls]]
-title = "GitHub"
+title = "My GitHub"
 url = "https://github.com/lonelynerd"
-
-[[urls]]
-title = "blahaj.land"
-url = "https://blahaj.land"
