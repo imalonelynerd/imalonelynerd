@@ -8,6 +8,7 @@ img = "https://avatars.githubusercontent.com/u/42437280?v=4"
 [personal]
 age = 19
 pronouns = [ "She/Them", "They/Them" ]
+flags = ["trans","nb","ace"]
 desc = "<br /><b>Special ability : putting too much effort into stupid things</b><br /><br />\n<b>CS</b> student<br />\nHobbist <b>graphical designer</b><br />\nC hater<br /><br />\n<h3>My projects :</h3>\n- <b>Talisman</b> ( webapp ), a stupid simple, yet elegant Yu-Gi-Oh! companion<br />\n- <b>Frisk</b>, an online gallery, made to be a self-hostable DeviantArt alternative<br />\n- <b>Blahaj ecosystem</b>, a serie of websites made for <b>blahaj.land</b><br />\n- <b>Oxygen²</b>, Oxygen reincarnated<br />"
 
 [colors]
