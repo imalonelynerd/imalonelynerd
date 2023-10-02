@@ -8,8 +8,8 @@ img = "https://avatars.githubusercontent.com/u/42437280?v=4"
 [personal]
 age = 19
 pronouns = [ "She/Them", "They/Them" ]
-flags = ["trans","nb","ace"]
-desc = "<br /><b>Special ability : putting too much effort into stupid things</b><br /><br />\n<b>CS</b> student<br />\nHobbist <b>graphical designer</b><br />\nC hater<br /><br />\n<h3>My projects :</h3>\n- <b>Talisman</b> ( webapp ), a stupid simple, yet elegant Yu-Gi-Oh! companion<br />\n- <b>Frisk</b>, an online gallery, made to be a self-hostable DeviantArt alternative<br />\n- <b>Blahaj ecosystem</b>, a serie of websites made for <b>blahaj.land</b><br />\n- <b>Oxygen²</b>, Oxygen reincarnated<br />"
+flags = [ "trans", "nb", "ace" ]
+desc = "**Special ability : putting too much effort into stupid things**\n\n**CS student**<br/>\nHobbist **graphical designer**<br/>\n**C hater**<br/>\n### My projects :\n- **Talisman** (webapp & GTK), a stupid simple, yet elegant Yu-Gi-Oh! companion\n- **PrettyHeroes**, a simple and colorful About Me page creator. I'll let you guess why I named it this way...\n- **Frisk**, an online gallery, made to be a self-hostable DeviantArt alternative\n- **Blahaj ecosystem**, a serie of websites made for **blahaj.land**\n- **Oxygen²**, Oxygen reincarnated"
 
 [colors]
 bgimg = "https://imalonelynerd.fr/landing/images/dawn.jpg"
