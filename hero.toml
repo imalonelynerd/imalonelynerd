@@ -12,12 +12,12 @@ flags = [ "trans", "nb", "ace" ]
 desc = "**Special ability : putting too much effort into stupid things**\n\n**CS student**<br/>\nHobbist **graphical designer**<br/>\n**C hater**<br/>\n### My projects :\n- **Talisman** (webapp & GTK), a stupid simple, yet elegant Yu-Gi-Oh! companion\n- **PrettyHeroes**, a simple and colorful About Me page creator. I'll let you guess why I named it this way...\n- **Frisk**, an online gallery, made to be a self-hostable DeviantArt alternative\n- **Blahaj ecosystem**, a serie of websites made for **blahaj.land**\n- **Oxygen²**, Oxygen reincarnated"
 
 [colors]
-bgimg = "https://imalonelynerd.fr/landing/images/dawn.jpg"
-background = "#161321"
-widget = "#161321"
-link = "#27233f"
-hover = "#BA2C3A"
-title = "#FF5263"
+bgimg = "https://imalonelynerd.fr/landing/images/comet.jpg"
+background = "#0c2121"
+widget = "#0c2121"
+link = "#004346"
+hover = "#09bc8a"
+title = "#44ffc7"
 text = "#FFFFFF"
 
 [[urls]]
