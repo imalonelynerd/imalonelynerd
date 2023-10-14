@@ -15,12 +15,12 @@ timezone = "UTC +2"
 location = "Rouen, France"
 
 [colors]
-bgimg = "https://imalonelynerd.fr/landing/images/night.png"
-background = "#000814"
-widget = "#000814"
-link = "#00132a"
-hover = "#003566"
-title = "#A3C5E3"
+bgimg = "https://imalonelynerd.fr/landing/images/comet.png"
+background = "#0c2121"
+widget = "#0c2121"
+link = "#004346"
+hover = "#09bc8a"
+title = "#7EE4C8"
 text = "#FFFFFF"
 
 [[urls]]
