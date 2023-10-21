@@ -1,15 +1,19 @@
 # Nerd
 
-CS student \
-Hobbist graphical designer \
-C hater
+Cybesec student, Hobbist graphical designer, C hater
 
 ## Projects
-- Talisman ( webapp ), a stupid simple, yet elegant Yu-Gi-Oh! companion
-- PrettyHeroes, a simple and colorful About Me page creator. I'll let you guess why I named it this way...
-- Frisk, an online gallery, made to be a self-hostable DeviantArt alternative
-- Blahaj ecosystem, a serie of websites made for [blahaj.land](https://blahaj.land)
-- Oxygen², Oxygen reincarnated ( check [here](https://invent.kde.org/pinheiro/oxygen2) )
+
+## Languages, frameworks & softwares I'm using 
+- Python, JavaScript, PHP, Java, C (ew), OCaml
+- Node, Electron, VueJS, jQuery
+- Figma, Inkscape, Gimp
+
+### Projects :
+- **Talisman** ( GTK ), a stupid simple, yet elegant Yu-Gi-Oh! companion
+- **PrettyHeroes**, a simple and colorful About Me page creator. I'll let you guess why I named it this way...
+- **Blahaj ecosystem**, a serie of websites made for **blahaj.land**
+- **Oxygen²**, Oxygen reincarnated\n"
 
 ## Contact
 
