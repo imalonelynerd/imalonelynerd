@@ -2,8 +2,6 @@
 
 Cybesec student, Hobbist graphical designer, C hater
 
-## Projects
-
 ## Languages, frameworks & softwares I'm using 
 - Python, JavaScript, PHP, Java, C (ew), OCaml
 - Node, Electron, VueJS, jQuery
