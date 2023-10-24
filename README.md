@@ -11,7 +11,7 @@ Cybesec student, Hobbist graphical designer, C hater
 - **Talisman** ( GTK ), a stupid simple, yet elegant Yu-Gi-Oh! companion
 - **PrettyHeroes**, a simple and colorful About Me page creator. I'll let you guess why I named it this way...
 - **Blahaj ecosystem**, a serie of websites made for **blahaj.land**
-- **Oxygen²**, Oxygen reincarnated"
+- **Oxygen²**, Oxygen reincarnated
 
 ## Contact
 
