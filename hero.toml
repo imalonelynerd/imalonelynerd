@@ -15,7 +15,7 @@ timezone = "UTC +2"
 location = "Rouen, France"
 
 [colors]
-bgimg = "https://imalonelynerd.fr/landing/images/comet.png"
+bgimg = "https://www.imalonelynerd.fr/images/comet.webp"
 background = "#0c2121"
 widget = "#0c2121"
 link = "#004346"
