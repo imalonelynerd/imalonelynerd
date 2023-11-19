@@ -9,18 +9,18 @@ name1 = "Nerd"
 name2 = "imalonelynerd"
 age = 19
 flags = [ "trans", "nb", "ace" ]
-desc = "## Cybesec student, Hobbist graphical designer, C hater<br>\n### Languages, frameworks & softwares I'm using :\n\n- Python, JavaScript, PHP, Java, C (ew), OCaml\n- Node, Electron, VueJS, jQuery\n- Figma, Inkscape, Gimp\n\n### Projects :\n\n- **Talisman** ( webapp & GTK ), a stupid simple, yet elegant Yu-Gi-Oh! companion\n- **PrettyHeroes**, a simple and colorful About Me page creator. I'll let you guess why I named it this way...\n- **Blahaj ecosystem**, a serie of websites made for **blahaj.land**\n- **Oxygen²**, Oxygen reincarnated\n"
+desc = "## Cybesec student<br>Hobbist graphical designer<br>On a C redemption arc<br>\n### Languages, frameworks & softwares I'm using :\n\n- Python, JavaScript, PHP, Java, C, OCaml\n- Node, Electron, VueJS, jQuery\n- Figma, Inkscape, Gimp\n\n### Projects :\n\n- **Talisman** ( webapp & GTK ), a stupid simple, yet elegant Yu-Gi-Oh! companion\n- **PrettyHeroes**, a simple and colorful About Me page creator. I'll let you guess why I named it this way...\n- **Blahaj ecosystem**, a serie of websites made for **blahaj.land**\n- **Oxygen²**, Oxygen reincarnated\n"
 work = "Student"
 timezone = "UTC +2"
 location = "Rouen, France"
 
 [colors]
-bgimg = "https://www.imalonelynerd.fr/images/comet.webp"
-background = "#0c2121"
-widget = "#0c2121"
-link = "#004346"
-hover = "#09bc8a"
-title = "#7EE4C8"
+bgimg = "https://images.unsplash.com/photo-1535408190508-be4c21946da6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+background = "#1b102f"
+widget = "#1b102f"
+link = "#361a50"
+hover = "#6D77BB"
+title = "#8AC1C9"
 text = "#FFFFFF"
 
 [[urls]]
