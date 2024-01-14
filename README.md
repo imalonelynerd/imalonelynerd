@@ -1,6 +1,6 @@
 # Nerd
 
-Cybesec student, Hobbist graphical designer, C hater
+Cybesec student, Hobbist graphical designer, on a C redemption arc
 
 ## Languages, frameworks & softwares I'm using 
 - Python, JavaScript, PHP, Java, C (ew), OCaml
@@ -8,9 +8,8 @@ Cybesec student, Hobbist graphical designer, C hater
 - Figma, Inkscape, Gimp
 
 ### Projects :
-- **Talisman** ( GTK ), a stupid simple, yet elegant Yu-Gi-Oh! companion
-- **PrettyHeroes**, a simple and colorful About Me page creator. I'll let you guess why I named it this way...
-- **Blahaj ecosystem**, a serie of websites made for **blahaj.land**
+- **Talisman** ( webapp & GTK ), a stupid simple, yet elegant Yu-Gi-Oh! companion
+- **PrettyHeroes**, a simple and colorful About Me page creator
 - **Oxygen²**, Oxygen reincarnated
 
 ## Contact
