@@ -3,7 +3,7 @@
 Cybesec student, Hobbist graphical designer, on a C redemption arc
 
 ## Languages, frameworks & softwares I'm using 
-- Python, JavaScript, PHP, Java, C (ew), OCaml
+- Python, JavaScript, PHP, Java, C, OCaml, Rust
 - Node, Electron, VueJS, jQuery
 - Figma, Inkscape, Gimp
 
