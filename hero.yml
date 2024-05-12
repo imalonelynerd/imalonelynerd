@@ -1,0 +1,49 @@
+---
+title:
+  image: 'https://avatars.githubusercontent.com/u/42437280?v=4'
+  firstName: 'Nerd'
+  lastName: 'imalonelynerd'
+  age: '20'
+  catchphrase: 'Binarity is for wonks'
+  pronous: 'They/them'
+
+about:
+  work: 'Student'
+  location: 'Rouen, France'
+  timezone: 'UTC +1'
+  status: 'On my island'
+  flags:
+    - 'ace'
+    - 'nb'
+    - 'trans'
+  propage: 'imalonelynerd'
+  desc: '# Title 1\n## Title 2\n### Title 3\n#### Title 4\nThis is a desc\n\nCybesec student, Hobbist graphical designer, on a C redemption arc\n\nWorking for **Blahaj Land**\n\nI swear this is not a omg.lol clone...'
+
+online:
+  videos:
+    - title: 'Favourite music'
+      url: 'https://www.youtube.com/watch?v=793v_G9An70'
+    - title: 'Favourite video'
+      url: 'https://www.youtube.com/watch?v=Ss6vLmLcCbU'
+  links:
+    - title: 'GitHub'
+      url: 'https://github.com/imalonelynerd'
+    - title: 'Talisman'
+      url: 'https://github.com/imalonelynerd/TalismanGTK'
+    - title: 'PrettyHeroes'
+      url: 'https://github.com/imalonelynerd/PrettyHeroes'
+    - title: 'EventHorizon'
+      url: 'https://horizon.imalonelynerd.fr/'
+
+colors:
+  bgimg: 'https://images.unsplash.com/photo-1605286700104-15889419f60b?q=80&w=1646&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+  background: '#002628'
+  widget: '#004346'
+  hover: '#508991'
+  title: '#09BC8A'
+  text: '#FFFFFF'
+
+extras:
+  pronounceCompat: false
+  enableSnapshot: true
+  version: 'ROSA'
