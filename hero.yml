@@ -1,8 +1,8 @@
 ---
 title:
   image: 'https://avatars.githubusercontent.com/u/42437280?v=4'
-  firstName: 'Nerd'
-  lastName: 'imalonelynerd'
+  title: 'Nerd'
+  subtitle: 'imalonelynerd'
   age: '20'
   catchphrase: 'Binarity is for wonks'
   pronouns: 'They/them'
