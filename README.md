@@ -1,6 +1,9 @@
 # Nerd
 
-Cybesec student, Hobbist graphical designer, on a C redemption arc
+- Cybesec student
+- Hobbist graphical designer
+- on a C redemption arc
+
 Working for [Blahaj Land](http://blahaj.land)
 
 ## Languages, frameworks & softwares I'm using 
@@ -14,6 +17,7 @@ Working for [Blahaj Land](http://blahaj.land)
 
 ### Archive :
 - **Talisman** ( webapp & GTK ), a stupid simple, yet elegant Yu-Gi-Oh! companion
+- **DeathCount**, a Discord bot with a counting minigame, now with consequences
 
 ## Contact
 
