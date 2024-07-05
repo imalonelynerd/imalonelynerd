@@ -1,24 +1,29 @@
-# Nerd
+# Nerd (imalonelynerd)
 
 - Cybesec student
-- Hobbist graphical designer
-- on a C redemption arc
+- UI/UX designer
+- On a queer dino grind
 
-Working for [Blahaj Land](http://blahaj.land)
+<center><b>Working for <a href="http://blahaj.land">Blahaj Land</a></b></center>
 
 ## Languages, frameworks & softwares I'm using 
-- Python, JavaScript, PHP, Java, C, OCaml, Rust
-- Node, Electron, Vue3, jQuery, Figma
+
+- **Web**
+	- JavaScript, TypeScript, PHP
+	- NodeJs, Electron, Vue, Nuxt, Express
+	- Pug, Sass
+
+- **Dev**
+	- Python, Java, C, OCaml, Rust
+
+- **UI/UX**
+	- Figma
 
 ### Projects :
-- **PrettyHeroes**, a queer-powered About Me page creator
+- **PrettyHeroes**, a queer-friendly About Me page creator
 - **EventHorizon**, an ADECampus compatible timetable viewer
-- **VOTV Secrets Website**, a quasi-complete rewrite of [SuqareZeb's VOTV Secrets Wiki](https://squarezeb.github.io/VOTV-Secrets-Website/)
 
 ### Archive :
 - **Talisman** ( webapp & GTK ), a stupid simple, yet elegant Yu-Gi-Oh! companion
 - **DeathCount**, a Discord bot with a counting minigame, now with consequences
-
-## Contact
-
-- Everything's on my **website**, [check it out](https://imalonelynerd.fr/)
+- **VOTV Secrets Website**, a quasi-complete rewrite of [SuqareZeb's VOTV Secrets Wiki](https://squarezeb.github.io/VOTV-Secrets-Website/)
