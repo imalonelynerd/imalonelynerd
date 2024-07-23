@@ -1,4 +1,4 @@
-# Nerd (imalonelynerd)
+# Rosabel (oiimrosabel)
 
 - Cybesec student
 - UI/UX designer
